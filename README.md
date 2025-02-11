@@ -5,7 +5,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer from Lithuania.
@@ -18,7 +17,7 @@ I am a Full Stack Developer from Lithuania.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2 align="center">:hammer_and_wrench: Languages and Tools : <h2/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -40,8 +39,3 @@ I am a Full Stack Developer from Lithuania.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasuseke&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
